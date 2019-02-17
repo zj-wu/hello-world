@@ -3,7 +3,7 @@ See more at: https://guides.github.com/activities/hello-world/
 
 * * *
 
-# How to delete a repository
+# Deleting a repository
 
 You can delete any repository or fork if you\'re either an organization owner or have admin permissions for the repository or fork. Deleting a forked repository does not delete the upstream repository.
 
@@ -26,3 +26,6 @@ Please also keep in mind that:
  5. To verify that you're deleting the correct repository, type *the name of the repository* you want to delete.
  
  6.  Click **I understand the consequences, delete this repository**.
+
+**Leran More:**
+ *  [Administering a repository](https://help.github.com/categories/administering-a-repository/)
